@@ -1,0 +1,41 @@
+h1{
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+
+div{
+    background-color: rgba(233, 222, 222, 0.932);
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(240, 147, 147);
+    width: 280px;
+    height: 250px;
+    box-shadow: 5px 5px 5px;
+    margin: 0 auto;
+
+}
+
+#textBox{
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+button{
+    background-color: rgb(240, 147, 147);
+    color: white;
+    border-radius: 10px;
+    border: 0;
+    padding: 5px 10px;
+}
+
+button:hover{
+    background-color: rgb(238, 122, 122);
+    cursor: pointer;
+}
+
+#result{
+    font-size: 20px;
+    font-weight: bold;
+}
